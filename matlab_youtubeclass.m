@@ -16,3 +16,5 @@ FinalPercent = sum(y_greater) / length (y) * 100
 
 % a = 50; 
 %abc
+
+%hallo was geht?
